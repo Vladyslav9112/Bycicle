@@ -174,7 +174,7 @@ body {
 .wrapper .content .header {
   height: 800px;
   max-width: 1600px;
-  background: url("/BYCICLE/img/hero.jpg");
+  background: url("/Bycicle/img/hero.jpg");
 }
 @media (max-width: 1600px) {
   .wrapper .content .header {
