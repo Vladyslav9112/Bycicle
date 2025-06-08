@@ -454,7 +454,7 @@ body {
 .wrapper .content .vintage-oliva__img {
   width: 1067px;
   height: 600px;
-  background-image: url(/img/left-box-1.jpg);
+  background-image: url(/Bycicle/img/left-box-1.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1453,4 +1453,4 @@ body {
   .wrapper .footer__avtor::before {
     right: 0;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
