@@ -174,7 +174,7 @@ body {
 .wrapper .content .header {
   height: 800px;
   max-width: 1600px;
-  background: url(/img/hero.jpg);
+  background: url("/Bycicle/img/hero.jpg");
 }
 @media (max-width: 1600px) {
   .wrapper .content .header {
@@ -454,7 +454,7 @@ body {
 .wrapper .content .vintage-oliva__img {
   width: 1067px;
   height: 600px;
-  background-image: url(/img/left-box-1.jpg);
+  background-image: url("/Bycicle/img/left-box-1.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -738,7 +738,7 @@ body {
   }
 }
 .wrapper .content .la-boriosa__img {
-  background-image: url(/img/left-box-2.jpg);
+  background-image: url("/Bycicle/img/left-box-2.jpg");
   flex: 1 1 auto;
   display: flex;
   width: 1067px;
@@ -808,7 +808,7 @@ body {
   }
 }
 .wrapper .content .retro-bike__item__logo {
-  background-image: url(/img/red-frame.jpg);
+  background-image: url("/Bycicle/img/red-frame.jpg");
   display: flex;
   width: 100%;
   flex-grow: 1;
@@ -1441,7 +1441,7 @@ body {
 .wrapper .footer__avtor::before {
   content: "";
   position: absolute;
-  background-image: url(/img/icon/yebo-icon.png);
+  background-image: url("/Bycicle/img/icon/yebo-icon.png");
   background-repeat: no-repeat;
   background-size: auto;
   width: 55px;
@@ -1453,4 +1453,4 @@ body {
   .wrapper .footer__avtor::before {
     right: 0;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
